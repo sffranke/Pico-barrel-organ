@@ -17,5 +17,10 @@ What we need:
 - Motor 60 rpm  
 - ESP8266-01 Wi-Fi Module (or new Pi Pico W)  
 
+Links:  
+https://microdigisoft.com/control-dc-motor-using-l298n-raspberry-pi-pico-micropython/  
+https://circuitdigest.com/microcontroller-projects/interfacing-esp8266-01-wifi-module-with-raspberry-pi-pico  
+
+
 
 
