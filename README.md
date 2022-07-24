@@ -18,7 +18,7 @@ What we need:
 - ESP8266-01 Wi-Fi Module (or new Pi Pico W)  
 
 Links:  
-https://microdigisoft.com/control-dc-motor-using-l298n-raspberry-pi-pico-micropython/  
+https://microcontrollerslab.com/dc-motor-l298n-driver-raspberry-pi-pico-tutorial/  
 https://circuitdigest.com/microcontroller-projects/interfacing-esp8266-01-wifi-module-with-raspberry-pi-pico  
 https://github.com/kevinmcaleer/Wifi   
 
