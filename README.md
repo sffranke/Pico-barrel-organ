@@ -19,8 +19,8 @@ What we need:
 
 Links:  
 https://microdigisoft.com/control-dc-motor-using-l298n-raspberry-pi-pico-micropython/  
-https://circuitdigest.com/microcontroller-projects/interfacing-esp8266-01-wifi-module-with-raspberry-pi-pico
-https://github.com/kevinmcaleer/Wifi/blob/main/main.py
+https://circuitdigest.com/microcontroller-projects/interfacing-esp8266-01-wifi-module-with-raspberry-pi-pico  
+https://github.com/kevinmcaleer/Wifi   
 
 
 
