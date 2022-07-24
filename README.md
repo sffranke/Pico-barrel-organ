@@ -1,4 +1,4 @@
-**Pico barrel organ** 
+**Pico barrel organ forget-me-not** 
 
 We want to run a mini barrel organ with a Pi Pico.
 
@@ -19,7 +19,8 @@ What we need:
 
 Links:  
 https://microdigisoft.com/control-dc-motor-using-l298n-raspberry-pi-pico-micropython/  
-https://circuitdigest.com/microcontroller-projects/interfacing-esp8266-01-wifi-module-with-raspberry-pi-pico  
+https://circuitdigest.com/microcontroller-projects/interfacing-esp8266-01-wifi-module-with-raspberry-pi-pico
+https://github.com/kevinmcaleer/Wifi/blob/main/main.py
 
 
 
